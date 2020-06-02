@@ -45,7 +45,7 @@ return [
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
-            'schema' => ['$user', 'public','postgis','tiger'],
+            'schema' => ['public', '$user', 'postgis','tiger'],
             'sslmode' => 'prefer',
         ]
     ],
