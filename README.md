@@ -71,13 +71,13 @@
      ![Imgur](https://i.imgur.com/2SK2om3.png)<br>
      ![Imgur](https://i.imgur.com/RcgCDrX.png)<br>
      ![Imgur](https://i.imgur.com/aIH3Mkt.png)<br>
-2.Run a PostgreSQL server.
-2.Pull this repo to `{path_of_XAMPP\htdocs}`<br>
-3.Open Command Prompt, Go to `{path_of_XAMPP\htdocs\exam5}`, and run `composer install`<br>
+2.Run a PostgreSQL server.<br>
+3.Pull this repo to `{path_of_XAMPP\htdocs}`<br>
+4.Open Command Prompt, Go to `{path_of_XAMPP\htdocs\exam5}`, and run `composer install`<br>
 ![Imgur](https://i.imgur.com/m1ZFgJf.png)
-4.run `php artisan migrate:refresh --seed`<br>
+5.run `php artisan migrate:refresh --seed`<br>
 ![Imgur](https://i.imgur.com/AUsPbom.png)<br>
-5.Go to `http://localhost/exam5/`<br>
+6.Go to `http://localhost/exam5/`<br>
 # Example a website
 ![Imgur](https://i.imgur.com/FyVyVZb.png)<br>
 ![Imgur](https://i.imgur.com/X6Gh6UU.png)<br>
