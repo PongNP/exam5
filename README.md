@@ -71,6 +71,7 @@
      ![Imgur](https://i.imgur.com/2SK2om3.png)<br>
      ![Imgur](https://i.imgur.com/RcgCDrX.png)<br>
      ![Imgur](https://i.imgur.com/aIH3Mkt.png)<br>
+2.Run a PostgreSQL server.
 2.Pull this repo to `{path_of_XAMPP\htdocs}`<br>
 3.Open Command Prompt, Go to `{path_of_XAMPP\htdocs\exam5}`, and run `composer install`<br>
 ![Imgur](https://i.imgur.com/m1ZFgJf.png)
